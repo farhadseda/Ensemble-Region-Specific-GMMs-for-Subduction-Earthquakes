@@ -22,7 +22,7 @@ This study attempts to develop data-driven global and region-specific ground mot
 * Intall all dependencies using pip, run the command: pip install -r requirements.txt
 ```ShellSession
 $ conda deactivate
-$ conda create -n GMM python=3.9.16 anaconda
+$ conda create -n GMM python=3.9.13 anaconda
 $ conda activate GMM
 ```
 Then, install the requirements:
